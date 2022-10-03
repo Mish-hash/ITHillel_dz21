@@ -10,6 +10,7 @@ function App() {
       <Header/>
       <Routes>
         <Route path='/' element={<Welcome/>}/>
+        <Route path='' element={<Welcome/>}/>
         <Route path='contacts' element={<Contacts/>}/>
       </Routes>
     </div>

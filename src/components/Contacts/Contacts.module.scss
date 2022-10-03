@@ -1,0 +1,21 @@
+
+.selectCard {
+    height: 50px;
+    margin: 10px auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    font-weight: bold;
+}
+
+.cardList {
+    width: 250px;
+    margin: 2px auto;
+}
+
+.cardList p {
+    margin-block-start: 4px;
+    margin-block-end: 4px;
+}

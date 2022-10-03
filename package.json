@@ -1,7 +1,7 @@
 {
   "name": "dz_less_21",
   "version": "0.1.0",
-  "homepage": "https://mish-hash.github.io/ithillel_dz21",
+  "homepage": "https://mish-hash.github.io/ITHillel_dz21",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
